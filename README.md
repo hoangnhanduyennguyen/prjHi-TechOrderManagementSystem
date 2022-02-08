@@ -27,6 +27,11 @@ The application includes:
 - Book management
 - Order management
 
+<figure>
+  <img src="images/Hi-Tech-Order-Management-System-screenshot.png" alt="screenshot">
+  <figcaption>Fig.1 - Hi-Tech Order Management System login screenshot</figcaption>
+</figure>
+
 ## Technologies & programming languages
 - C#
 - SQL Server 2017
