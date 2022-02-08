@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\5-Nov_2020 (Class Library)\HiTechLibrary\bin\Debug\HiTechLibrary.dll
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\5-Nov_2020 (Class Library)\HiTechLibrary\bin\Debug\HiTechLibrary.pdb
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\5-Nov_2020 (Class Library)\HiTechLibrary\obj\Debug\HiTechLibrary.dll
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\5-Nov_2020 (Class Library)\HiTechLibrary\obj\Debug\HiTechLibrary.pdb
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\5-Nov_2020 (Class Library)\HiTechLibrary\obj\Debug\HiTechLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\HiTechLibrary\bin\Debug\HiTechLibrary.dll
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\HiTechLibrary\bin\Debug\HiTechLibrary.pdb
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\HiTechLibrary\obj\Debug\HiTechLibrary.dll
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\HiTechLibrary\obj\Debug\HiTechLibrary.pdb
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\HiTechLibrary\bin\Debug\HiTechLibrary.dll.config
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\HiTechLibrary\obj\Debug\HiTechLibrary.csprojAssemblyReference.cache

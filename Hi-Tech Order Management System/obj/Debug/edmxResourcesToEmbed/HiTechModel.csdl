@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HiTechDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="OrderLine">
+    <Key>
+      <PropertyRef Name="OrderId" />
+      <PropertyRef Name="ISBN" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" />
+    <Property Name="ISBN" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="QuantityOrdered" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Order" Relationship="Self.FK_OrderLines_Orders" FromRole="OrderLines" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="OrderType" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="RequiredDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ShippingDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="OrderStatus" Type="Int32" Nullable="false" />
+    <Property Name="CustomerId" Type="Int32" Nullable="false" />
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="OrderLines" Relationship="Self.FK_OrderLines_Orders" FromRole="Orders" ToRole="OrderLines" />
+  </EntityType>
+  <Association Name="FK_OrderLines_Orders">
+    <End Role="Orders" Type="Self.Order" Multiplicity="1" />
+    <End Role="OrderLines" Type="Self.OrderLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="OrderId" />
+      </Principal>
+      <Dependent Role="OrderLines">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HiTechDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="OrderLines" EntityType="Self.OrderLine" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <AssociationSet Name="FK_OrderLines_Orders" Association="Self.FK_OrderLines_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="OrderLines" EntitySet="OrderLines" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

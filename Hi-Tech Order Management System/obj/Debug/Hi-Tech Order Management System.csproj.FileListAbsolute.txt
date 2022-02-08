@@ -1,0 +1,45 @@
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\HiTechLibrary.dll
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\HiTechLibrary.pdb
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormLogin.resources
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormUserEmployee.resources
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\HiTechLibrary.dll.config
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormCustomer.resources
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormBook.resources
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormOrder.resources
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormForgotPassword.resources
+C:\Users\Admin\Desktop\MULTI_TIER APLLICATIONS\Project\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\HiTechLibrary.dll
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\HiTechLibrary.pdb
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\bin\Debug\HiTechLibrary.dll.config
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormBook.resources
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormCustomer.resources
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormForgotPassword.resources
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormLogin.resources
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormOrder.resources
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.FormUserEmployee.resources
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Users\Admin\Downloads\HoangNhanDuyen_Nguyen_1911876\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
